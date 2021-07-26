@@ -4,10 +4,10 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $HELL_REPO == "HellBot" ]]
+    if [[ $HELL_REPO == "Legacybot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $HELL_REPO == "Hellbot" ]]
+    elif [[ $HELL_REPO == "Legacybot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $HELL_REPO =~ $regex ]]
@@ -36,10 +36,10 @@ start_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $HELLPATH
-    echo "  • Starting HellBot •  "
+    echo "  • Starting LegacyBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m hellbot
+    python3 -m legacybot
 }
 
 start_bot
