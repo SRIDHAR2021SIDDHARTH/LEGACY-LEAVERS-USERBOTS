@@ -1,7 +1,7 @@
 FROM teamvaders/hellbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/TheVaders/InVade.git /root/hellbot
+RUN git clone https://github.com/SRIDHAR2021SIDDHARTH/LEGACY-LEAVERS-BOT.git /root/hellbot
 
 #working directory 
 WORKDIR /root/hellbot
