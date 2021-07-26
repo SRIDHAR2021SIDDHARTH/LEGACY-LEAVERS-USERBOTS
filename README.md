@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê LEGACYẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/626697c5017d3950ecc1c.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦLegacyɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -26,14 +26,14 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/@LEGACY_LEAVERS_ARMY)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LEGACY_LEAVERS_FORCE)
 
 ------
 ## Deploy 🚀
-- [![Deploy](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
+- [![Deploy](https://telegra.ph/file/626697c5017d3950ecc1c.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+- [![Locally](https://telegra.ph/file/626697c5017d3950ecc1c.jpg)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
@@ -49,29 +49,7 @@
 ------
 ## Deploy Locally
 
-- Clone the repo. 
-
-`git clone https://github.com/TheVaders/InVade.git`
-- Open Cloned Folder.
-
-`cd InVade`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
-
-`python hell_string.py`
-- Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
-
-`bash start.sh`
-
-------
+-----
 ## Variables
 
 - `APP_ID`  =  Get this value from my.telegram.org
@@ -103,12 +81,12 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your LegacyBot Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
+- LegacyBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -122,7 +100,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [LegacyBot](https://github.com/SRIDHAR2021SIDDHARTH/LEGACY-LEAVERS-USERBOTS) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
