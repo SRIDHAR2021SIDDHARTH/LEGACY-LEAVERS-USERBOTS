@@ -1,7 +1,7 @@
 {
   "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "description": "Legacyẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/7943d2f35ef910e190d77.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/SRIDHAR2021SIDDHARTH/LEGACY-LEAVERS-USERBOTS/",
+  "website": "https://github.com/SRIDHAR2021SIDDHARTH/",
+  "success_url": "https://t.me/LEGACY_LEAVERS_FORCE",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
